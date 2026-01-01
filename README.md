@@ -1,7 +1,5 @@
-## Hi there 👋
-- 🌱 I’m currently learning Ai/ML
-- # 💫 About Me:
-AI & ML Engineer | Full Stack Developer<br>Passionate about building scalable web applications and intelligent automation solutions. Let's push the boundaries of innovation together and create the next generation of tech! 🚀✨
+# 💫 About Me:
+👨‍💻 Mustafa<br><br>AI & Machine Learning Engineer | Full Stack Web Developer | Automation Expert<br><br>Passionate about building cutting-edge intelligent systems and scalable web applications. With expertise in AI/ML, I create data-driven solutions that power the future. Whether it’s designing end-to-end web architectures, automating complex workflows, or implementing innovative AI models, I’m always looking to push the boundaries of technology.<br><br>💡 What I Do<br><br>Build intelligent automation systems with AI/ML<br><br>Develop full-stack web applications with modern frameworks and tools<br><br>Optimize complex processes through cutting-edge technology<br><br>Work on projects that make a tangible impact in the tech world<br><br>🔧 Technologies & Tools I Use<br><br>AI/ML: TensorFlow, PyTorch, Scikit-learn, OpenCV, NLP<br><br>Frontend: React.js, Vue.js, HTML5, CSS3, Tailwind CSS<br><br>Backend: Node.js, Express.js, Python (Flask/Django), GraphQL<br><br>Databases: PostgreSQL, MongoDB, MySQL, Firebase<br><br>DevOps & Automation: Docker, Kubernetes, CI/CD, GitHub Actions<br><br>Cloud: AWS, Azure, GCP<br><br>🌍 Let’s Innovate Together!<br>I’m always looking for new opportunities to collaborate on exciting projects that make a difference. Whether you're building an AI-powered app, automating complex systems, or creating a full-stack web platform, let’s work together to make it happen!<br><br>Feel free to check out my projects below. 🚀✨
 
 
 ## 🌐 Socials:
@@ -24,4 +22,3 @@ AI & ML Engineer | Full Stack Developer<br>Passionate about building scalable we
 [![](https://visitcount.itsvg.in/api?id=mmustafacode&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
